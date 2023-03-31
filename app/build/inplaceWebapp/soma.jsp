@@ -11,7 +11,7 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-    <title>megamente 2</title>
+    <title>Soma</title>
 </head>
 <body>
     <h1> Soma </h1>
